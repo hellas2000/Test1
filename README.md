@@ -4,7 +4,7 @@
   * Not a programming language training
   * Not a senior programming training
   * Not programming tips & tricks training
-  * It is a training to let us to have the same common understanding of basic tools, methods and knowlodge
+  * It is a training to let us to have the **same common understanding** of basic tools, methods and knowlodge
   * the common understanding enable an experienced programmer to work immediately
   * the common understanding enable a junior programmer to read existing code, communicate with others
 
